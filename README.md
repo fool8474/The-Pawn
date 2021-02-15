@@ -13,9 +13,9 @@ The Pawn은 팀 제작 게임으로, Unity로 제작된 모바일을 대상으�
 이들을 무기마다 존재하는 3개의 스킬들로 레벨업을 하고 성장해나가며 클리어 하는 것이 목표이다.
 
 ## 성장
-<img src="https://github.com/fool8474/The-Pawn/blob/main/ScreenShot/PawnScreenShot%20(3).jpg" width="360px" height="192px"></img>
-<img src="https://github.com/fool8474/The-Pawn/blob/main/ScreenShot/PawnScreenShot%20(4).jpg" width="360px" height="192px"></img>
-<img src="https://github.com/fool8474/The-Pawn/blob/main/ScreenShot/PawnScreenShot%20(5).jpg" width="360px" height="192px"></img><br/>
+<img src="https://github.com/fool8474/The-Pawn/blob/main/ScreenShot/PawnScreenShot%20(3).jpg" width="320px" height="180px"></img>
+<img src="https://github.com/fool8474/The-Pawn/blob/main/ScreenShot/PawnScreenShot%20(4).jpg" width="320px" height="180px"></img>
+<img src="https://github.com/fool8474/The-Pawn/blob/main/ScreenShot/PawnScreenShot%20(5).jpg" width="320px" height="180px"></img><br/>
 다양한 아이템과 마스터리, 카드를 통해 플레이어와 던전에 영향을 끼칠 수 있다. 
 
 ## 보스
