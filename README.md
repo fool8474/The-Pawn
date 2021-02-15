@@ -30,6 +30,6 @@ The Pawn은 팀 제작 게임으로, Unity로 제작된 모바일을 대상으�
 대화 시스템을 통해 퀘스트를 진행시키고, 조건을 충족시킨 채 말을 걸면 알맞은 보상을 받을 수 있게 된다.
 대화와 퀘스트는 CSV를 통해 관리된다.
 
-## 
+## 옵션
 <img src="https://github.com/fool8474/The-Pawn/blob/main/ScreenShot/PawnScreenShot%20(1).jpg" width="480px" height="270px"></img><br/>
 옵션을 통해 데이터를 없애거나, 마을로 복귀, 게임 종료, 사운드 조절을 할 수 있다.
